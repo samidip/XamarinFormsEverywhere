@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinFormsEverywhere.TelerikUI"
+             xmlns:telerikPrimitives="clr-namespace:Telerik.XamarinForms.Primitives;assembly=Telerik.XamarinForms.Primitives"
+             xmlns:telerikInput="clr-namespace:Telerik.XamarinForms.Input;assembly=Telerik.XamarinForms.Input">
+	<ContentPage.Content>
+        <StackLayout Orientation="Vertical" VerticalOptions="Center">
+            <telerikInput:RadButton x:Name="button" Text="I'm a Telerik Button!" BorderThickness="2" BorderColor="#4488F6" Clicked="Handle_Clicked" 
+                                    HorizontalContentAlignment="Center" VerticalContentAlignment="Center" WidthRequest="200" HeightRequest="60"/>
+            <telerikPrimitives:RadSlideView>
+                <telerikPrimitives:RadSlideView.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">                    
+                        <x:String>1</x:String>
+                        <x:String>2</x:String>
+                        <x:String>3</x:String>
+                    </x:Array>
+                </telerikPrimitives:RadSlideView.ItemsSource>
+            </telerikPrimitives:RadSlideView>
+        </StackLayout>
+	</ContentPage.Content>
+</ContentPage>

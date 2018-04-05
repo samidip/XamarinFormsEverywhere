@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{2A8CEBF0-3A97-4ECD-A090-74DDE0981558}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsEverywhere.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4ED866C9-8419-4A78-979B-953B9118CBE5">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.XamarinFormsEverywhere.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinFormsEveryWhere.Web/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="XamarinFormsEveryWhere.Web/Startup.cs" Line="37" Column="17" />
+      <File FileName="XamarinFormsEveryWhere.Web/Controllers/HomeController.cs" Line="21" Column="49" />
+      <File FileName="XamarinFormsEverywhere/TelerikUI.xaml" Line="21" Column="1" />
+      <File FileName="XamarinFormsEverywhere/TelerikUI.xaml.cs" Line="21" Column="1" />
+      <File FileName="XamarinFormsEverywhere/XamarinFormsEverywherePage.xaml" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEverywhere/TelerikUI.xaml" relfile="XamarinFormsEverywhere/TelerikUI.xaml" line="9" column="12" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsEveryWhere.Web PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsEveryWhere.MacOS PreferredExecutionTarget="Test1" />
+  <MultiItemStartupConfigurations />
+</Properties>

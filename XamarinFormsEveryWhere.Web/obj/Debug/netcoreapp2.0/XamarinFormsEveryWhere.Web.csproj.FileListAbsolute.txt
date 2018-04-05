@@ -1,0 +1,13 @@
+/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.Web/bin/Debug/netcoreapp2.0/XamarinFormsEveryWhere.Web.deps.json
+/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.Web/bin/Debug/netcoreapp2.0/XamarinFormsEveryWhere.Web.runtimeconfig.json
+/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.Web/bin/Debug/netcoreapp2.0/XamarinFormsEveryWhere.Web.runtimeconfig.dev.json
+/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.Web/bin/Debug/netcoreapp2.0/XamarinFormsEveryWhere.Web.dll
+/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.Web/bin/Debug/netcoreapp2.0/XamarinFormsEveryWhere.Web.pdb
+/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.Web/obj/Debug/netcoreapp2.0/XamarinFormsEveryWhere.Web.csprojResolveAssemblyReference.cache
+/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.Web/obj/Debug/netcoreapp2.0/XamarinFormsEveryWhere.Web.csproj.CoreCompileInputs.cache
+/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.Web/obj/Debug/netcoreapp2.0/XamarinFormsEveryWhere.Web.AssemblyInfoInputs.cache
+/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.Web/obj/Debug/netcoreapp2.0/XamarinFormsEveryWhere.Web.AssemblyInfo.cs
+/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.Web/obj/Debug/netcoreapp2.0/XamarinFormsEveryWhere.Web.dll
+/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.Web/obj/Debug/netcoreapp2.0/XamarinFormsEveryWhere.Web.pdb
+/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.Web/bin/Debug/netcoreapp2.0/XamarinFormsEverywhere.dll
+/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.Web/bin/Debug/netcoreapp2.0/XamarinFormsEverywhere.pdb
