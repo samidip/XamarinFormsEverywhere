@@ -1,6 +1,6 @@
-# Version: 4.0.0.216 (d15-5: de65bf22)
-# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/4.0.0.216/lib/mmp/mmp.exe
-/Library/Frameworks/Xamarin.Mac.framework/Versions/4.0.0.216/lib/mmp/mmp.exe \
+# Version: 4.2.1.29 (d15-6: 8690c7f4)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/4.2.1.29/lib/mmp/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/4.2.1.29/lib/mmp/mmp.exe \
 	/verbose \
 	/debug \
 	/output:/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.MacOS/bin/Debug/ \
@@ -188,8 +188,6 @@
 	/assembly:/Users/Sam/Projects/XamarinFormsEverywhere/packages/Xamarin.Forms.2.4.0.282/lib/Xamarin.Mac/Xamarin.Forms.Platform.macOS.dll \
 	/assembly:/Users/Sam/Projects/XamarinFormsEverywhere/packages/Xamarin.Forms.2.4.0.282/lib/Xamarin.Mac/Xamarin.Forms.Xaml.dll \
 	/assembly:/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEverywhere/bin/Debug/XamarinFormsEverywhere.dll \
-	/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.MacOS/bin/Debug/XFonMac.exe \
-	/sdkroot \
-	/Applications/Xcode.app/Contents/Developer \
-	--cache \
-	/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.MacOS/obj/Debug/mmp-cache \
+	/root-assembly:/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.MacOS/bin/Debug/XFonMac.exe \
+	/sdkroot:/Applications/Xcode.app/Contents/Developer \
+	--cache:/Users/Sam/Projects/XamarinFormsEverywhere/XamarinFormsEveryWhere.MacOS/obj/Debug/mmp-cache \

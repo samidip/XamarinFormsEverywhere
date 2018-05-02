@@ -8,8 +8,8 @@ namespace XamarinFormsEverywhere
         {
             InitializeComponent();
 
-            MainPage = new XamarinFormsEverywherePage();
-            //MainPage = new TelerikUI();
+            //MainPage = new XamarinFormsEverywherePage();
+            MainPage = new TelerikUI();
         }
 
         protected override void OnStart()
